@@ -1,0 +1,10 @@
+.list-tweets {
+  &__list-empty {
+    margin-top: 150px !important;
+    text-align: center;
+    color: white;
+  }
+  &__list-full {
+    margin-top: 150px !important;
+  }
+}
